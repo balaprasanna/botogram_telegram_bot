@@ -1,4 +1,4 @@
-TOKEN = "796078392:AAFUgDfdfEy9O3I8wbC2vjsF-FI4TOVkSjI"
+TOKEN = "<TOKEN TO BE PASTED>"
 
 from util import *
 
