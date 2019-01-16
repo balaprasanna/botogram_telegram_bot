@@ -17,7 +17,7 @@ Copy the created token <....>
 pip install -r requiements.txt
 ```
 
-# MODIFY the code `app.py` with your TOKEN
+- MODIFY the code `app.py` with your TOKEN
 
 TOKEN = "...."
 
